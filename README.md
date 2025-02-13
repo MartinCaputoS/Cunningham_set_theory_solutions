@@ -1,2 +1,2 @@
-# Cunningham_set_theory_solutions
+# Cunningham's set theory solutions
 Solutions to selected exercises from Cunningham's book "Set Theory: A First Course".
